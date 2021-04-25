@@ -1,0 +1,41 @@
+.landingpage{
+    background-image: url("pizza image/chef.jpg");
+    background-size: cover;
+    height: 600px
+    
+
+}
+.pizzeria{
+    padding-top: 40px;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+}
+.menu{
+    padding-top: 15px;
+}
+.size{
+    height: 200px;
+    width: 300px;
+}
+.two{
+    margin-top: 30px;
+}
+.overlay{
+    display: none 
+}
+/* .overlay1{
+    display:none;
+    position: absolute;
+    bottom:0px;
+    background:white;
+    opacity: 0.5;
+    width: 90%;
+    height: 100%;
+} */
+.aboutus{
+padding: 100px;
+}
+
+.footer{
+    padding-top:70px;
+}
