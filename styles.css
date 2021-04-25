@@ -23,7 +23,7 @@
 .overlay{
     display: none 
 }
-/* .overlay1{
+ .overlay1{
     display:none;
     position: absolute;
     bottom:0px;
@@ -31,7 +31,7 @@
     opacity: 0.5;
     width: 90%;
     height: 100%;
-} */
+} 
 .aboutus{
 padding: 100px;
 }
