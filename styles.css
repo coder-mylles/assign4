@@ -17,21 +17,11 @@
     height: 200px;
     width: 300px;
 }
+
 .two{
     margin-top: 30px;
 }
-.overlay{
-    display: none 
-}
- .overlay1{
-    display:none;
-    position: absolute;
-    bottom:0px;
-    background:rgb(14, 12, 12);
-    opacity: 0.5;
-    width: 90%;
-    height: 100%;
-} 
+
 .aboutus{
 padding: 100px;
 }
